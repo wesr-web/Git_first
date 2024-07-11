@@ -8,4 +8,5 @@
 ***BOLD & ITALIC***
 ~~skrithed~~
 *ITALIC*
+>Quoted TEXT.
 my first repository.
