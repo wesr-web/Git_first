@@ -4,8 +4,8 @@
 #### forth
 ##### fifth
 ###### last(sixth)
-** BOLD **
-*** BOLD & ITALIC ***
-~~ skrithed ~~
-* ITALIC *
+**BOLD**
+***BOLD & ITALIC***
+~~skrithed~~
+*ITALIC*
 my first repository.
